@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SOLID_OCP.Backend/SOLID_OCP.Backend.csproj" Id="8627e16c-e44f-4112-8cb2-99012af9d2f1" />
+  <Project Path="SOLID_OCP.Fronted/SOLID_OCP.Fronted.csproj" Id="4c104405-dfff-4fe9-8e56-45021245a64e" />
+</Solution>
